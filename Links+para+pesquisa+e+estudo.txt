@@ -1,0 +1,4 @@
+1- Explicações sobre Transformações e Ações: https://spark.apache.org/docs/latest/rdd-programming-guide.html#transformations
+2- Explicções sobre operações em geral com exemplos: https://spark.apache.org/docs/latest/api/python/reference/api/pyspark.RDD.cache.html?highlight=cache#pyspark.RDD.cache
+3- Script Spark Streaming site Apache Spark: https://spark.apache.org/docs/latest/streaming-programming-guide.html
+4- Emulador Linux: https://mobaxterm.mobatek.net/download-home-edition.html  
